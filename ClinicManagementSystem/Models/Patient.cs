@@ -1,5 +1,4 @@
-﻿
-namespace ClinicManagementSystem.Models
+﻿namespace ClinicManagementSystem.Models
 {
     public class Patient
     {
