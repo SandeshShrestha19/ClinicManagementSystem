@@ -6,4 +6,5 @@
         Completed = 1,
         Cancelled = 2
     }
+
 }
